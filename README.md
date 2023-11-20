@@ -1,2 +1,2 @@
-# VR_Player
-A template for the unity vr player
+# VR_Game
+My First VR project
