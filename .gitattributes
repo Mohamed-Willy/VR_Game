@@ -1,0 +1,4 @@
+*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Downloads/Enemies/Zombie[[:space:]]Attack[[:space:]](1).fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Downloads/Enemies/Zombie[[:space:]]Walk.fbx filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
